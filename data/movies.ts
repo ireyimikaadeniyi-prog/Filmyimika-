@@ -16,7 +16,8 @@ export const movies = [
 	  	                                          	            genre: "Comedy",
 	  	                                          	                category: "Nollywood",
 	  	                                          	                    editorPick: true,
-	  	                                          	                        comingSoon: true,
+                                                                                                           comingSoon: true,
+	  	                                          	                        
 	  	                                          	                            rating: "7.5",
 	  	                                          	                                image: "/posters/poster2.jpg",
 	  	                                          	                                    trailer: "https://www.youtube.com/watch?v=nrSx7PkBN6o",
@@ -29,7 +30,8 @@ export const movies = [
 	  	                                          	                                                  	            genre: "Action",
 	  	                                          	                                                  	                category: "International",
 	  	                                          	                                                  	                    editorPick: true,
-	  	                                          	                                                  	                        comingSoon: true,
+                                                                                                           comingSoon: true,
+	  	                                          	                                                  	                        
 	  	                                          	                                                  	                            rating: "8.0",
 	  	                                          	                                                  	                                image: "/posters/poster3.jpg",
 	  	                                          	                                                  	                                    trailer: "https://www.youtube.com/watch?v=Y274jZs5s7s",
